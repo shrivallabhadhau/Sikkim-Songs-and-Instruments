@@ -1,0 +1,129 @@
+h1{
+    font-family: Comic Sans MS;
+    font-style: italic;
+    text-align: center;
+}
+
+h2{
+    font-style: italic;
+}
+
+#cent{
+    text-align: center;
+}
+
+body{
+    background-color: #ADD8E6;
+}
+
+p{
+    font-size: 20px;
+}
+
+details{
+    font-size: 20px;
+}
+
+ol{
+    font-size: 20px;
+}
+
+#introp{
+    color: #DC143C;
+}
+
+.songp{
+    color: #8B4513;
+}
+
+#tamangp{
+    color: #B8860B;
+}
+
+#zomallokp{
+    color: #228B22;
+}
+
+#pangp{
+    color: #4B0082;
+}
+
+.instp{
+    color: #FF8C00;
+}
+
+#chyabrung{
+    color: #9400D3;
+}
+
+hr{
+    border-color: #556B2F;
+}
+
+#madal{
+    color: 	#800000;
+}
+
+#tungna{
+    color: #008080;
+}
+
+#damphu{
+    color: #FF1493;
+}
+
+#dungchen{
+    color: #00008B;
+}
+
+#binayo{
+    color: #4B0082;
+}
+
+#q1{
+    color: #8B0000;
+}
+
+#q2{
+    color: #006400;
+}
+
+#q3{
+    color: #8B008B;
+}
+
+#q4{
+    color: #483D8B;
+}
+
+#q5{
+    color: #BDB76B;
+}
+
+#q6{
+    color: #00CED1;
+}
+
+#q7{
+    color: #9400D3;
+}
+
+#q8{
+    color: #B8860B;
+}
+
+#q9{
+    color: #556B2F;
+}
+
+#q10{
+    color: #004953;
+}
+
+#quizp{
+    color: #2E0854;
+}
+
+#conclusionp{
+    color: #046307;
+}
